@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Timeline</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- PREFERENCES -->
+    <string name="preferences_file_key">12345</string>
+    <string name="current_user_email">current_user_email</string>
+    <string name="pref_stay_logged_in">stay_logged_in</string>
+    <!-- username and password == "" if not stored but still exsist -->
+    <string name="pref_last_username">pref_last_username</string>
+    <string name="pref_last_password">pref_last_password</string>
+
+
+</resources>
